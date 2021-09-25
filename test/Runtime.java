@@ -1,6 +1,6 @@
-package src.test;
+package os.test;
 
-import src.view.UserInterface;
+import os.src.view.UserInterface;
 public class Runtime{
     public static void main(String[] args){
         UserInterface ui=new UserInterface();
